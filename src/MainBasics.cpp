@@ -52,6 +52,6 @@ int main(){
 	int total = variableArguments(3, 20, 90, 98);
 	printf("There are %d students greater than 90\n", total);
 	
-	
+
 	return 0;
 }
